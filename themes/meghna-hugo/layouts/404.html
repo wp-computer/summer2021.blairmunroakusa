@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+{{ partial "navigation.html" . }}
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h1>404</h1>
+        <h2>This page isn't a real thing yet. Please check back later, or if you did something funny with URLs, figure out what you did wrong to find the real page.</h2>
+				<a class="btn btn-main" href="{{ site.BaseURL | relLangURL }}">Back to home</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
