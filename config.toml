@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://blairmunroakusa.wp.computer/"
+baseURL = "https://summer2021.blairmunroakusa.wp.computer/"
 title = "blairmunroakusa"
 theme = "meghna-hugo"
 themesDir = "themes"
