@@ -3,7 +3,7 @@ contact:
   enable : true
   title : Contact !
   subtitle : Contact Protocols
-  content : "I am a very busy bee, and my time is precious to me. To maximize the chance that I will reply to your correspondence, please use your empathic powers to crawl inside my head first." 
+  content : "I am a very busy bee, and my time is precious to me. To maximize the chance that I will reply to your correspondence, please use your empathic powers to crawl inside my head first. You can also hit me up on github, linkedin, twitter, mastadon, discord, where ever you can find me." 
 
   # Contact details
   contact_list:
